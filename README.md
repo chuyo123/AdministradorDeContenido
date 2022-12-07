@@ -25,6 +25,3 @@ php artisan route:cache
 
 php artisan vendor:publish
 
-
-
-Administrador de paginas web tipo Wordpress
